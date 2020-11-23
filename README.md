@@ -3,7 +3,7 @@ real-time emojifier
 
 written in autohotkey
 
-the executable with throw warnings, because the script contains keyboard hooks, download only if you know what you're doing
+the executable will throw warnings, because the script contains keyboard hooks, download only if you know what you're doing
 if you are familiar with autohotkey, you can also download the source code
 
 after running the script, an icon will pop up in your task bar, you can either pause or exit the script by right-clicking it
