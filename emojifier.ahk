@@ -498,7 +498,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::cake::cake 🍰
 ::cakeday::cakeday 🍰
 ::ice::ice 🧊
-::train:train 🚆
+::train::train 🚆
 ::truck::truck 🚚
 ::fly::fly ✈️
 ::flying::flying ✈️
